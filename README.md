@@ -7,4 +7,4 @@ This model was built to preempt, based on a simple table of given weather condit
 
 The model itself is a multi-layer perceptron with 227,219 trainable parameters. It has 5 dense layers: the first four utilize the ReLU and Sigmoid activation functions and the fifth layer consists of only 3 units and utilizes a Softmax activation in order to classify rain or snow.
 
-The model achieves a prediction accuracy of just over 99% using dense layers and an MLP architecture.
+The model achieves a prediction accuracy of 99.4% and loss of 0.0238 on the test data set using dense layers and an MLP architecture.
