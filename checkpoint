@@ -1,2 +1,0 @@
-model_checkpoint_path: "weather_nn"
-all_model_checkpoint_paths: "weather_nn"
